@@ -1,0 +1,2 @@
+# Lucky
+First Git Lucky
